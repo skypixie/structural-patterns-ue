@@ -16,6 +16,7 @@ public class SructuralPatterns : ModuleRules
             "SructuralPatterns/Facade",
             "SructuralPatterns/Proxy",
             "SructuralPatterns/Composite",
+            "SructuralPatterns/Adapter",
         });
     }
 }
